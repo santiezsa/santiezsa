@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Santiago Ezequiel Sánchez (@santiezsa)
 - 👀 I’m interested in software development, technology and engineering
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: This is my linkedin profile -> https://www.linkedin.com/in/santiagoesanchez/
 
 <!---
